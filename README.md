@@ -11,6 +11,6 @@ Fork of deployed TieredDrop contract for @MocaverseNFT developed by thirdweb
 
 ### Credits
 - Credits to below builders in developing and deploying the contract 🫡
-    - @thirdweb-dev - @nkrishang, @eiman
+    - @thirdweb-dev - @nkrishang, @eimaneabdelmoneim
     - @animocabrands @MocaverseNFT - @calvin-animoca @djtsoi @hannah-boon
 
